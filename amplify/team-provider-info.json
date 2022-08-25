@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yeezus3-dev-03444-authRole",
+      "UnauthRoleArn": "arn:aws:iam::109246226078:role/amplify-yeezus3-dev-03444-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::109246226078:role/amplify-yeezus3-dev-03444-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-yeezus3-dev-03444-deployment",
+      "UnauthRoleName": "amplify-yeezus3-dev-03444-unauthRole",
+      "StackName": "amplify-yeezus3-dev-03444",
+      "StackId": "arn:aws:cloudformation:us-east-1:109246226078:stack/amplify-yeezus3-dev-03444/3f4b0f60-242f-11ed-bbec-127af16651f7",
+      "AmplifyAppId": "d3njhw58xnpinb"
+    }
+  }
+}
