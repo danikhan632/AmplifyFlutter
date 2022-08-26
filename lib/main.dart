@@ -12,7 +12,7 @@ import "package:my_api/my_api.dart";
 import 'dart:core';
 import 'package:flutter/material.dart';
 
-import 'amplifyconfiguration.dart';
+import './amplifyconfiguration.dart';
 
 
 void main() async{
