@@ -131,7 +131,7 @@ class MyApp extends StatelessWidget {
       await Amplify.addPlugin(AmplifyAuthCognito());
       await Amplify.configure(amplifyconfig);
     } on Exception catch (e) {
-      print('Could not configure AWS Amplify Test: $e');
+      print('Could not configure AWS Amplify Test frro : $e');
     }
   }
 
