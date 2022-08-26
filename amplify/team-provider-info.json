@@ -10,6 +10,11 @@
       "StackName": "amplify-yeezus3-dev-03444",
       "StackId": "arn:aws:cloudformation:us-east-1:109246226078:stack/amplify-yeezus3-dev-03444/3f4b0f60-242f-11ed-bbec-127af16651f7",
       "AmplifyAppId": "d3njhw58xnpinb"
+    },
+    "categories": {
+      "auth": {
+        "yeezus3d397af12": {}
+      }
     }
   }
 }

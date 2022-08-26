@@ -10,7 +10,7 @@ import './components/auth_service.dart';
 import "package:my_api/my_api.dart";
 import 'dart:core';
 import 'package:flutter/material.dart';
-// import './amplifyconfiguration.dart';
+// y
 
 
 void main() async{
