@@ -41,7 +41,7 @@ class _LoginPageState extends State<LoginPage> {
 
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              const Text('Welcome to Workshop App',),
+              const Text('Welcome to TechStack App',),
               const Padding(padding: EdgeInsets.all(5)),
               TextField(
                   decoration: const InputDecoration(
