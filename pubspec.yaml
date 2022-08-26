@@ -32,7 +32,7 @@ dependencies:
   dio: ^4.0.4
   amplify_auth_cognito: ^0.3.0-0
   amplify_authenticator: ^0.1.0-0
-  amplify_flutter: ^0.3.0-0
+  amplify_flutter: '<1.0.0'
   my_api:
     path: ./pkgs/petstore_api/
 
